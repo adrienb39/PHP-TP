@@ -1,0 +1,12 @@
+27/10/2023 16:20:24 - Pseudo : test1 - Résultat : Perdu ! Le nombre à deviner était 90.
+27/10/2023 16:20:33 - Pseudo : test2 - Résultat : Excellent ! Vous avez trouvé le nombre en 1 essais.
+28/10/2023 11:05:05 - Pseudo : test - Résultat : Perdu ! Le nombre à deviner était 100.
+28/10/2023 11:06:01 - Pseudo : test - Résultat : Perdu ! Le nombre à deviner était 82.
+28/10/2023 11:06:29 - Pseudo : test - Résultat : Perdu ! Le nombre à deviner était 89.
+28/10/2023 11:06:52 - Pseudo : test - Résultat : Perdu ! Le nombre à deviner était 6.
+06/11/2023 15:47:28 - Pseudo : Ryan - Résultat : Perdu ! Le nombre à deviner était 72.
+06/11/2023 15:49:01 - Pseudo : Ryan - Résultat : Perdu ! Le nombre à deviner était 90.
+06/11/2023 15:51:53 - Pseudo : Ryan - Résultat : Perdu ! Le nombre à deviner était 18.
+06/11/2023 15:56:11 - Pseudo : test - Résultat : Perdu ! Le nombre à deviner était 56.
+06/11/2023 15:59:23 - Pseudo : rh - Résultat : Perdu ! Le nombre à deviner était 89.
+07/11/2023 05:32:37 - Pseudo : test - Résultat : Bien joué ! Vous avez trouvé le nombre en 11 essais.
